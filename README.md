@@ -30,6 +30,7 @@
 
 ---
 скрин бота (https://github.com/MarfaVass/Ai_assistant_SBA/blob/main/SBA%20bot%201.JPG)
+![Иллюстрация к проекту](https://github.com/MarfaVass/Ai_assistant_SBA/blob/main/SBA%20bot%20dialog.PNG?raw=true)
 
 ## 🛠 Используемые технологии
 
